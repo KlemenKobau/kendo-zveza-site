@@ -6,7 +6,6 @@ preview: ""
 draft: false
 tags: []
 categories: []
-type: page
 
 menu:
   main:
