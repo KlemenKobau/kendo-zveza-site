@@ -1,0 +1,10 @@
+# Hugo
+public/
+resources/
+
+# Backup Files
+*.markdown~
+*.md~
+
+.vscode
+.frontmatter
