@@ -3,9 +3,13 @@ title: Novice
 description: ""
 date: 2025-10-12T09:40:39.984Z
 preview: ""
-draft: true
+draft: false
 tags: []
 categories: []
+
+menu:
+  main:
+    weight: 1
 ---
 
 Dobrodošli na spletni strani Kendo zveze Slovenije!
