@@ -6,11 +6,6 @@ preview: ""
 draft: false
 tags: []
 categories: []
-
-resources:
-- params:
-    icon: pdf
-  src: '*.pdf'
 ---
 
 # KZS dokumenti
