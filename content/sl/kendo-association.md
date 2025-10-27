@@ -44,9 +44,9 @@ TRANSAKCIJSKI RAČUN:  SI56 6100 0001 3916 549  (banka Delavska Hranilnica)**
 
 **Predsednik**: Obaha Alen (president@kendo.si)
 
-**Sekretarka**: Rogelj Jerca (Rogelj Jerca)
+**Sekretarka**: Rogelj Jerca (secretary@kendo.si)
 
-**Blagajnik**: Treven Andrej (Treven Andrej)
+**Blagajnik**: Treven Andrej (treasurer@kendo.si)
 
 **Član**: Gerl Tomaž
 
