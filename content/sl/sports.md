@@ -13,3 +13,9 @@ menu:
 ---
 
 Kendo
+
+{{< youtube "Cb13DKpDd_k" >}}
+
+Iaido
+
+{{< youtube "TJ5_JaRaOtQ" >}}
