@@ -12,7 +12,7 @@ pagerSize = 3
 
 [languages]
 [languages.sl]
-title = "Ananke"
+title = "Kendo zveza"
 weight = 1
 contentDir = "content/sl"
 # languageDirection = 'rtl' for Right-To-Left languages

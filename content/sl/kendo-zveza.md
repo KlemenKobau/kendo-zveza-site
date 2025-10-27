@@ -41,3 +41,31 @@ KOPALIŠKA ULICA 15
 TRANSAKCIJSKI RAČUN:  SI56 6100 0001 3916 549  (banka Delavska Hranilnica)**
 
 ## Izvršni odbor
+
+**Predsednik**: Obaha Alen (president@kendo.si)
+
+**Sekretarka**: Rogelj Jerca (Rogelj Jerca)
+
+**Blagajnik**: Treven Andrej (Treven Andrej)
+
+**Član**: Gerl Tomaž
+
+**Član**: Allouche Eli
+
+## Nadzorni odbor
+
+**Predsednik**: Ložar Domen
+
+**Član**: Košir Polona
+
+**Član**: Filej Aljoša
+
+## Predstavnik antidoping
+
+Kobau Klemen
+
+## Panožne komisije
+
+**KENDO**: Greif Tanja - Predsednica
+
+**IAIDO**: Allouche Eli - Predsednik
